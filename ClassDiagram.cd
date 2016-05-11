@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="otobus_otomasyon_linq.Ayarlar" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhQAABAAAAwAgAQQEEAIABiGAAAAAAABACAAAEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Biletler" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQDiRQEFiEEChAIE5IEEQoARiaJCCEIAQpnARlCMBgA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Calisanlar" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJInoIAFACmBgQkEZCEUIAAFjCGkAFMUCBJhBxQXIAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.CalisanTipleri" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAWABAAAAgAAEQAEEAAABiCAAAAAAABhAABAEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.DataSet_raporlamalar">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="otobus_otomasyon_linq.DataSet_raporlamalar.DataTable1DataTable" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataSet_raporlamalar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="otobus_otomasyon_linq.DataSet_raporlamalar.DataTable1Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="otobus_otomasyon_linq.DataSet_raporlamalar.DataTable1RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="otobus_otomasyon_linq.DataSet_raporlamalar.DataTable1RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="otobus_otomasyon_linq.DataSet_raporlamalar.MusterilerDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="otobus_otomasyon_linq.DataSet_raporlamalar.MusterilerRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="otobus_otomasyon_linq.DataSet_raporlamalar.MusterilerRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="otobus_otomasyon_linq.DataSet_raporlamalar.MusterilerRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAwAAAALABAAAQEAAAAgCQBgAAAAAAhEABBA=</HashCode>
+      <FileName>DataSet_raporlamalar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.DogrulamaKontrolleri" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>DogrulamaKontrolleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.DoluKoltuklar" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQCiAwAFAAAAAAAAxAEAABABiCBgAAIAEAAAAkAIAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_ana_ekran" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SiwRSWIAkOBCiwDAgUqDAgpCYTke0EMLBIAkBpogO0U=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_biletSatis" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QAgCFSJQGACChOYYJLIBgAKAAA8KAAAICQKAYBSAAo=</HashCode>
+      <FileName>Form_biletSatis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_BiletSil" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ZQkQBAAgACAAABMAAAqIAEACAICTMAAAIAAABIAAgAE=</HashCode>
+      <FileName>Form_BiletSil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_GuzergahDetay" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAICAAEAABAASBACACABAAAgABIQAAAIAAAAE=</HashCode>
+      <FileName>Form_GuzergahDetay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_GuzergahEkle" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAECgEAAgKAIABAACIqEAQACAAAAAAAEIAECAcAQAQE=</HashCode>
+      <FileName>Form_GuzergahEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_kullanici_girisi" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAJABAACACAACAAAIAAAAAEAAAABAACA=</HashCode>
+      <FileName>Form_kullanici_girisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_MarkaIslemleri" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAEAAEAAACAAAhAEAACQESACABAAAECgIAAAAAIAJAk=</HashCode>
+      <FileName>Form_MarkaIslemleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_masrafIslemleri" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIkAQgCGMAQJAEMAiBCIACAhAgEwGBIAAAEIBAoAE=</HashCode>
+      <FileName>Form_masrafIslemleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_MasrafTipIslemler" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAgAAAACAAABCAEAilgAACIhAIAkCBIMAAIIBAIAE=</HashCode>
+      <FileName>Form_MasrafTipIslemler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_MusteriIslenleri" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAFAAAACBAQACAAAAAAAAIBAAEIAAAAE=</HashCode>
+      <FileName>Form_MusteriIslenleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_musteriKayitAl" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MA2QgEYBASEAABAkGAjFAAAKAhAIAgCJIAAQgYACEAk=</HashCode>
+      <FileName>Form_musteriKayitAl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_otobusDetay" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAABDAAAACAABACQEBABICAICCQAJFRIAE=</HashCode>
+      <FileName>Form_otobusDetay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_otobusEkle" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAgBAIEAiAAEACAkAgBAAAIAAAAJBAAAE=</HashCode>
+      <FileName>Form_otobusEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_personel_guncelle_ekle" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dAQQiAAQACMQgBABGAjACCACggAAAgAAAQiTAMIAACE=</HashCode>
+      <FileName>Form_personel_ekle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_personel_detay" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAACSAABAACACADAACAAAAAAAAIACAAIAAAAA=</HashCode>
+      <FileName>Form_personel_detay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_personelGuncelleIDAlma" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQABAAEAiAAAACAgAAAAIAAAAIAICAAAE=</HashCode>
+      <FileName>Form_personelGuncelleIDAlma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_pozisyonEkle" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQKIiAAAECAIABIAEAiBAAAiAhAIAiKAIEIgAIAAIAE=</HashCode>
+      <FileName>Form_pozisyonEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_SeferDetay" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cqJgAAAAACCAQBIKAAKBAAACgBAAAkAAIAGBAIAAkAE=</HashCode>
+      <FileName>Form_SeferDetay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Form_seferEkle" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAQAgCAAAhABUQSAAAASggMAQAAAIgAAQAAAAAE=</HashCode>
+      <FileName>Form_seferEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.form_SubeDetay" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCICCQAABhCIACEAQFCAQAIBAEggFQAEIAEGpA=</HashCode>
+      <FileName>form_SubeDetay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.form_subeEkle" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAKAAACAAABAAAACABAgCAAAIAAAAAEAAAIAgAkA=</HashCode>
+      <FileName>form_subeEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Guzergah" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAwAAEFEEIAgAAFQIMEAWIBiCBgEEYAABAAAQAEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.GuzergahItem" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAABgAAggAAAQAEEAAAhiCBAAAIBIBAAAEAMAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Hatalar" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAQAFAAAAoAAAQAEEAQABiSgABBEAABARAAA0AAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.LoadingPanal" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACAACCAAACAAAAAIAABAAAAAAAACA=</HashCode>
+      <FileName>LoadingPanal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Markalar" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAAEBAASAkAAEQAEEAAABiCAAEAAAABQAABAEAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.MasrafTipleri" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAABAAAJgAAEQAEEAAABiCEAAAAIABQAAAEGAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Musteriler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DVa3IAAFqDjAgAIkRIEEAAADjClEJZCACBABAmQVAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Otobusler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgmAAFAAAB2ACEQEEEAAAhiiFEAEYIAhAAARAEAAQ=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.OtobusMasraflari" BaseTypeListCollapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAFgAAAgCAAVAMEQEgBimFCQAIAABAAAEIMQgA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.PersonelGirisCiki" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAABgEAAgAAAQIEEQEgRiCAASAAAABgAEEAEQAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Program" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.RaporBiletler" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAABAAAgTAACIyIAAyAQABCBAAoAAQgIAAAAEAACAA=</HashCode>
+      <FileName>RaporBiletler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.RaporMusteriler" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECCABCAAgTAACISIAAyASABCBAAoAAQgIAAhAEAACAA=</HashCode>
+      <FileName>RaporMusteriler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.RaporTarihBazli" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MGCAJwAAgTAACASIAAyAQABChAAoQIQgIAAAAEAACAA=</HashCode>
+      <FileName>RaporTarihBazli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Seferler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UREiCRABAAGDggAsYIMmUgpBqCtIEIAJKBgABkBcIZA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Sehirler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAggAIANEAAAkIoEYNMEAQABqCCAAEIBQxChBQREAAI=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.Subeler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgACABKAAAgAAERAEGACABiCBAAQAAABhAABQEAAE=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="otobus_otomasyon_linq.VeriTabaniIslemleriDataContext" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBCMgSAlEJuBTCAkQrAAQDECCWRMDCkRAgigwhIgABo=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

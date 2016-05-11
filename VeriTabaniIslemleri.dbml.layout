@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15, 17.25" name="VeriTabaniIslemleri">
+  <DataContextMoniker Name="/VeriTabaniIslemleriDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9bfad7dc-d707-4cb7-b517-20392affecbb" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Ayarlar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="027601f9-b58e-4bef-9e54-1305c403772c" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a0615cb-561c-4055-8274-67274ff63c1f" absoluteBounds="12.75, 11.875, 2, 3.5016097005208309">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Biletler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ec398fc-f7fb-40c4-8913-ac77889610b8" absoluteBounds="12.765, 12.335, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b071b342-9d04-4ac7-b03b-562555966b14" absoluteBounds="6.25, 6.25, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Calisanlar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="87f511d7-f3a3-4ffd-8b05-6a7fe30f2bca" absoluteBounds="6.265, 6.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c53b6970-af02-4769-9e7e-39f7f502a01e" absoluteBounds="3.5, 4.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/CalisanTipleri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ce4ea00d-6e05-4e76-81ea-c49258050bf0" absoluteBounds="3.515, 4.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7478d639-0159-454a-adb0-cac2f7e23b03" absoluteBounds="6.5, 10, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/DoluKoltuklar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="08392e0c-0006-4a97-9950-623d30240941" absoluteBounds="6.515, 10.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="234df23e-78a3-4bb1-95a5-42d13ed2d69c" absoluteBounds="3.5, 11.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Guzergah" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e201767c-516a-4b86-9fa0-4418b23cc21c" absoluteBounds="3.515, 11.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="23a2563d-c218-47ce-a118-527c18592cbe" absoluteBounds="6.25, 13, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/GuzergahItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97c59319-5ff4-4969-8b9f-2503fe666340" absoluteBounds="6.265, 13.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81880375-9d19-4588-b80d-f80092c05a68" absoluteBounds="9.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Hatalar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d0f66afb-af29-45d6-8f8f-83fcbe1b13c3" absoluteBounds="9.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="aea5d94b-5bc1-4fb9-8df1-7ed984df6f77" absoluteBounds="4.5, 1.125, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Markalar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f988e04e-f073-407b-8580-066bdb653e2a" absoluteBounds="4.515, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="13279fdd-f1c1-4694-bf6a-459708b47d71" absoluteBounds="10, 12.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/MasrafTipleri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ed9c9578-0d13-4a3e-8e73-85518a445a8c" absoluteBounds="10.015, 12.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72db1096-c8c2-47f8-aebf-835e2e564de5" absoluteBounds="3.5, 13.875, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Musteriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="526664ae-c508-4b23-b009-56fc63ab8405" absoluteBounds="3.515, 14.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="da1d3482-830c-4c4e-b8fa-048c7b096ffa" absoluteBounds="7.25, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Otobusler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="706cf103-26f7-4863-b720-780826ea8ac7" absoluteBounds="7.265, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7e97ed39-bc55-4be8-bf9d-596d4a4eca9c" absoluteBounds="12.75, 8.75, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/OtobusMasraflari" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c00dbac-95dc-4eff-88c4-b58ec3fc0ff6" absoluteBounds="12.765, 9.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3b6ede32-84cb-43bb-97e1-a221d445132d" absoluteBounds="9, 5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/PersonelGirisCiki" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a2c41428-67fc-4bd8-ab39-bf95593a466e" absoluteBounds="9.015, 5.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" absoluteBounds="10, 8.25, 2, 2.9247054036458344">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Seferler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a8b8df4-80ff-4513-bb22-04aa9c0f368a" absoluteBounds="10.015, 8.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="34ff28b0-a036-4908-8e1d-f82588df76d4" absoluteBounds="0.75, 10.25, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ad17593-da34-4c16-b828-16e1690acc45" absoluteBounds="0.765, 10.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3b225991-5919-464d-9663-0c3343208e56" absoluteBounds="3.5, 7, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/VeriTabaniIslemleriDataContext/Subeler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="de103b0c-fee6-4cd8-b854-7f538fcf21b8" absoluteBounds="3.515, 7.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 7.41429768880208); (8.66666666666667 : 7.41429768880208 : JumpStart); (8.83333333333333 : 7.41429768880208 : JumpEnd); (12.5 : 7.41429768880208); (12.5 : 11.5); (13.75 : 11.5); (13.75 : 11.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Calisanlar/Calisanlar_Biletler" />
+      <nodes>
+        <classShapeMoniker Id="b071b342-9d04-4ac7-b03b-562555966b14" />
+        <classShapeMoniker Id="6a0615cb-561c-4055-8274-67274ff63c1f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.72199625651042); (7.25 : 4.72199625651042); (7.25 : 6.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/CalisanTipleri/CalisanTipleri_Calisanlar" />
+      <nodes>
+        <classShapeMoniker Id="c53b6970-af02-4769-9e7e-39f7f502a01e" />
+        <classShapeMoniker Id="b071b342-9d04-4ac7-b03b-562555966b14" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 12.3205471888021); (6.34375 : 12.3205471888021); (6.34375 : 13)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Guzergah/Guzergah_GuzergahItem" />
+      <nodes>
+        <classShapeMoniker Id="234df23e-78a3-4bb1-95a5-42d13ed2d69c" />
+        <classShapeMoniker Id="23a2563d-c218-47ce-a118-527c18592cbe" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 14.9127018229167); (12.75 : 14.9127018229167)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Musteriler/Musteriler_Biletler" />
+      <nodes>
+        <classShapeMoniker Id="72db1096-c8c2-47f8-aebf-835e2e564de5" />
+        <classShapeMoniker Id="6a0615cb-561c-4055-8274-67274ff63c1f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.5 : 1.72199625651042); (7.25 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Markalar/Markalar_Otobusler" />
+      <nodes>
+        <classShapeMoniker Id="aea5d94b-5bc1-4fb9-8df1-7ed984df6f77" />
+        <classShapeMoniker Id="da1d3482-830c-4c4e-b8fa-048c7b096ffa" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.25 : 2.51953358158053); (9.6263632283153 : 2.89589680989583); (13.75 : 2.89589680989583); (13.75 : 8.75)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Otobusler/Otobusler_OtobusMasraflari" />
+      <nodes>
+        <classShapeMoniker Id="da1d3482-830c-4c4e-b8fa-048c7b096ffa" />
+        <classShapeMoniker Id="7e97ed39-bc55-4be8-bf9d-596d4a4eca9c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(12 : 12.125); (12.375 : 11.75); (12.375 : 9.73159912109375); (12.4166666666667 : 9.73159912109375 : JumpStart); (12.5833333333333 : 9.73159912109375 : JumpEnd); (12.75 : 9.73159912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/MasrafTipleri/MasrafTipleri_OtobusMasraflari" />
+      <nodes>
+        <classShapeMoniker Id="13279fdd-f1c1-4694-bf6a-459708b47d71" />
+        <classShapeMoniker Id="7e97ed39-bc55-4be8-bf9d-596d4a4eca9c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 6.96519453320312); (8.66666666666667 : 6.96519453320312 : JumpStart); (8.83333333333333 : 6.96519453320312 : JumpEnd); (9.46875 : 6.96519453320312); (9.46875 : 6.57859537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Calisanlar/Calisanlar_PersonelGirisCiki" />
+      <nodes>
+        <classShapeMoniker Id="b071b342-9d04-4ac7-b03b-562555966b14" />
+        <classShapeMoniker Id="3b6ede32-84cb-43bb-97e1-a221d445132d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(12 : 11.1131659421074); (12.3160744349011 : 11.4292403770085 : JumpStart); (12.4339255650989 : 11.5470915072063 : JumpEnd); (12.4375 : 11.5506659421074); (12.4375 : 13.3625989114583); (12.75 : 13.3625989114583)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Seferler/Seferler_Biletler" />
+      <nodes>
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+        <classShapeMoniker Id="6a0615cb-561c-4055-8274-67274ff63c1f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10 : 10.5873527018229); (8.5 : 10.5873527018229)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Seferler/Seferler_DoluKoltuklar" />
+      <nodes>
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+        <classShapeMoniker Id="7478d639-0159-454a-adb0-cac2f7e23b03" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(12 : 9.17829956054688); (12.4166666666667 : 9.17829956054688 : JumpStart); (12.5833333333333 : 9.17829956054688 : JumpEnd); (12.75 : 9.17829956054688)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Seferler/Seferler_OtobusMasraflari" />
+      <nodes>
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+        <classShapeMoniker Id="7e97ed39-bc55-4be8-bf9d-596d4a4eca9c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 11.5); (4.5 : 9.71235270182292); (10 : 9.71235270182292)]" fixedFrom="Algorithm" fixedTo="NotFixed">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Guzergah/Guzergah_Seferler" />
+      <nodes>
+        <classShapeMoniker Id="234df23e-78a3-4bb1-95a5-42d13ed2d69c" />
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 8.71235270182292); (8.66666666666667 : 8.71235270182292 : JumpStart); (8.83333333333333 : 8.71235270182292 : JumpEnd); (10 : 8.71235270182292)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Calisanlar/Calisanlar_Seferler" />
+      <nodes>
+        <classShapeMoniker Id="b071b342-9d04-4ac7-b03b-562555966b14" />
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 2.52089680989583); (8.75 : 9.44352655273438); (10 : 9.44352655273438)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Otobusler/Otobusler_Seferler" />
+      <nodes>
+        <classShapeMoniker Id="da1d3482-830c-4c4e-b8fa-048c7b096ffa" />
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 8.41867635091146); (8.66666666666667 : 8.41867635091146 : JumpStart); (8.83333333333333 : 8.41867635091146 : JumpEnd); (10 : 8.41867635091146)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Calisanlar/Calisanlar_Seferler1" />
+      <nodes>
+        <classShapeMoniker Id="b071b342-9d04-4ac7-b03b-562555966b14" />
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.8469962565104); (4.41666666666667 : 10.8469962565104 : JumpStart); (4.58333333333333 : 10.8469962565104 : JumpEnd); (4.94791916666667 : 10.8469962565104 : JumpStart); (5.11458583333333 : 10.8469962565104 : JumpEnd); (6.5 : 10.8469962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_DoluKoltuklar" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="7478d639-0159-454a-adb0-cac2f7e23b03" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 11.1767468847656); (3.9687475 : 11.1767468847656); (3.9687475 : 11.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_Guzergah" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="234df23e-78a3-4bb1-95a5-42d13ed2d69c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.5172456282552); (4.41666666666667 : 10.5172456282552 : JumpStart); (4.58333333333333 : 10.5172456282552 : JumpEnd); (5.0312525 : 10.5172456282552); (5.0312525 : 11.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_Guzergah1" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="234df23e-78a3-4bb1-95a5-42d13ed2d69c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 11.4439925130208); (1.75 : 13.4767976888021); (2.19791916666667 : 13.4767976888021 : JumpStart); (2.36458583333333 : 13.4767976888021 : JumpEnd); (6.25 : 13.4767976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_GuzergahItem" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="23a2563d-c218-47ce-a118-527c18592cbe" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 11.4439925130208); (2.2812525 : 15.4335034179688); (3.5 : 15.4335034179688)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_Musteriler" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="72db1096-c8c2-47f8-aebf-835e2e564de5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 10.25); (1.75 : 9.85617885091146); (2.19791916666667 : 9.85617885091146 : JumpStart); (2.36458583333333 : 9.85617885091146 : JumpEnd); (4.41666666666667 : 9.85617885091146 : JumpStart); (4.58333333333333 : 9.85617885091146 : JumpEnd); (10 : 9.85617885091146)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_Seferler" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 10.25); (2.2812525 : 9.57793962727865); (10 : 9.57793962727865)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_Seferler1" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="e2704e47-32c2-41af-8cc2-b1dc12c16059" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.69314697265625); (6.25 : 7.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Subeler/Subeler_Calisanlar" />
+      <nodes>
+        <classShapeMoniker Id="3b225991-5919-464d-9663-0c3343208e56" />
+        <classShapeMoniker Id="b071b342-9d04-4ac7-b03b-562555966b14" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.2187475 : 10.25); (1.2187475 : 7.69314697265625); (3.5 : 7.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VeriTabaniIslemleriDataContext/Sehirler/Sehirler_Subeler" />
+      <nodes>
+        <classShapeMoniker Id="34ff28b0-a036-4908-8e1d-f82588df76d4" />
+        <classShapeMoniker Id="3b225991-5919-464d-9663-0c3343208e56" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

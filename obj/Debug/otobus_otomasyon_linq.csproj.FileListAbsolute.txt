@@ -1,0 +1,109 @@
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.pdb
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csprojResolveAssemblyReference.cache
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_ana_ekran.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Properties.Resources.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csproj.GenerateResource.Cache
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.exe
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.pdb
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_kullanici_girisi.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe.config
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_subeEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\otobus_otomasyon_linq\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_SubeDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe.config
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.exe
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.pdb
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.pdb
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_ana_ekran.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_kullanici_girisi.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_SubeDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_subeEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Properties.Resources.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csproj.GenerateResource.Cache
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personel_detay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\Otobus_Otomasyon.Entity.dll
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\Otobus_Otomasyon.Entity.pdb
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personel_guncelle_ekle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csprojResolveAssemblyReference.cache
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personelGuncelleIDAlma.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_MarkaIslemleri.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_otobusEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_otobusDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_GuzergahEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_GuzergahDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_seferEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_biletSatis.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.exe.licenses
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_BiletSil.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_pozisyonEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_SeferDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_MasrafTipIslemler.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_musteriKayitAl.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobüs Otomasyon\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_masrafIslemleri.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe.config
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.exe
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.pdb
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.pdb
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\bin\Debug\Otobus_Otomasyon.Entity.pdb
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csprojResolveAssemblyReference.cache
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_ana_ekran.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_biletSatis.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_BiletSil.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_GuzergahDetay.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_GuzergahEkle.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_kullanici_girisi.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_MarkaIslemleri.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_masrafIslemleri.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_MasrafTipIslemler.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_musteriKayitAl.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_otobusDetay.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_otobusEkle.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personelGuncelleIDAlma.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personel_detay.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personel_guncelle_ekle.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_pozisyonEkle.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_SeferDetay.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_seferEkle.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_SubeDetay.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_subeEkle.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Properties.Resources.resources
+C:\Users\Mühendis\Desktop\2. Personel İşlemleri\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csproj.GenerateResource.Cache
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe.config
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.exe
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.pdb
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.pdb
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csprojResolveAssemblyReference.cache
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_ana_ekran.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_biletSatis.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_BiletSil.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_GuzergahDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_GuzergahEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_kullanici_girisi.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_MarkaIslemleri.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_masrafIslemleri.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_MasrafTipIslemler.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_musteriKayitAl.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_otobusDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_otobusEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personelGuncelleIDAlma.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personel_detay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_personel_guncelle_ekle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_pozisyonEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_SeferDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_seferEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_SubeDetay.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.form_subeEkle.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Properties.Resources.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.csproj.GenerateResource.Cache
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.exe.licenses
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.RaporBiletler.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.Form_MusteriIslenleri.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.RaporMusteriler.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.LoadingPanal.resources
+E:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.RaporTarihBazli.resources
+D:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\bin\Debug\otobus_otomasyon_linq.exe.config
+D:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.exe
+D:\Mühendislik\Stajlar\Bilsam Yazılım\Otobus Otomasyon - SAFER\otobus_otomasyon_linq\obj\Debug\otobus_otomasyon_linq.pdb
